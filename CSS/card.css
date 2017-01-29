@@ -1,0 +1,49 @@
+body {
+	color : white;
+	text-align : center;
+	margin-right : 35%;
+	margin-top : 60;
+	background: url(../IMG/background.png) no-repeat center fixed;
+	background-size : cover;
+}
+
+h1 {
+	margin-top : 2%;
+}
+
+#cartes{
+    margin-top : 10%;
+	
+}
+
+#cartes img {
+	margin-right : 2%;
+	margin-top : -7%;
+}
+
+#jouer{
+
+    width:50px;
+    height:50px;
+    line-height:40px;
+    border: 2px solid #f5f5f5;
+    border-radius: 50%;
+    color:#f5f5f5;
+    text-align:center;
+    text-decoration:none;
+    background: #464646;
+    box-shadow: 0 0 3px gray;
+    font-size:18px;
+    font-weight:bold;
+	outline: none;
+}
+
+#jouer:hover {
+    background: #262626;
+}
+
+
+#button {
+	margin-top : 2%;
+	margin-right : 5%;
+}
